@@ -23,11 +23,11 @@ Market Sentiment and Investor Confidence: Use correlation matrices and heatmaps 
 
 # _Data Sources_
 
-Apple and Samsung stock price datasets from Kaggle and Yahoo Finance
+Apple and Samsung stock price datasets from Kaggle and Yahoo Finance.
 
-Exchange rate datasets for South Korean Won to USD conversion
+Exchange rate datasets for South Korean Won to USD conversion.
 
-Inflation rate datasets from Statista
+Inflation rate datasets from Statista.
 
 # _Methodology_
 
@@ -35,27 +35,27 @@ Inflation rate datasets from Statista
 
 *Data Visualization:*
 
-* Line charts for stock price trends
+* Line charts for stock price trends.
 
-* Box plots comparing Apple and Samsung stock price distributions
+* Box plots comparing Apple and Samsung stock price distributions.
 
-* Scatter plots to analyze relationships between macroeconomic factors and stock performance
+* Scatter plots to analyze relationships between macroeconomic factors and stock performance.
 
 
 *Risk & Return Analysis:*
 
-* Computation of Sharpe Ratio and standard deviation to compare investment risks
+* Computation of Sharpe Ratio and standard deviation to compare investment risks.
 
-* Correlation analysis between inflation, exchange rates, and stock prices
+* Correlation analysis between inflation, exchange rates, and stock prices.
 
 *Statistical Hypothesis Testing:*
 
-* Confidence interval analysis to evaluate stock price differences
+* Confidence interval analysis to evaluate stock price differences.
 
-* Hypothesis testing to assess the impact of macroeconomic factors on stock performance
+* Hypothesis testing to assess the impact of macroeconomic factors on stock performance.
 
 
-*Key Findings*
+*Key Findings:*
 
 * Apple’s stock showed higher returns but greater volatility, making it suitable for risk-tolerant investors.
 
