@@ -1,15 +1,15 @@
-# Navigating-Volatility
-Navigating Volatility: A 24-Year Risk-Return Analysis of Apple and Samsung Stocks
+# Navigating-Volatility : A 24-Year Risk-Return Analysis of Apple and Samsung Stocks
 
-Overview
+
+# _Overview_
 
 This project examines the historical stock price behavior and performance of two leading technology companies, Apple and Samsung, over a 24-year period (2000-2023). It provides insights into stock market volatility, risk-return profiles, and macroeconomic influences affecting these stocks. The study uses statistical methods and visualization techniques to compare the stock trends, helping investors make data-driven decisions.
 
-Problem Statement
+# _Problem Statement_
 
 Investment in stock markets presents both growth opportunities and significant challenges. Market volatility, emotional biases, and economic uncertainties can lead to poor investment decisions. This study aims to analyze the long-term stock trends of Apple and Samsung, evaluating their performance under different market conditions. By understanding these historical trends, investors can make informed decisions and manage risks more effectively.
 
-Objectives
+# _Objectives_
 
 Descriptive Statistical Analysis: Calculate and interpret key statistical measures such as mean, median, and standard deviation to understand stock price behavior.
 
@@ -21,7 +21,7 @@ Macroeconomic Influences: Examine the impact of inflation, exchange rates, and g
 
 Market Sentiment and Investor Confidence: Use correlation matrices and heatmaps to analyze investor sentiment and its effect on stock prices.
 
-Data Sources
+# _Data Sources_
 
 Apple and Samsung stock price datasets from Kaggle and Yahoo Finance
 
@@ -29,66 +29,65 @@ Exchange rate datasets for South Korean Won to USD conversion
 
 Inflation rate datasets from Statista
 
-Methodology
+# _Methodology_
 
-Data Collection & Cleaning: Historical stock price data for Apple and Samsung was obtained from reliable sources. Samsung's stock prices were converted to USD for fair comparison.
+*Data Collection & Cleaning:* Historical stock price data for Apple and Samsung was obtained from reliable sources. Samsung's stock prices were converted to USD for fair comparison.
 
-Data Visualization:
+*Data Visualization:*
 
-Line charts for stock price trends
+* Line charts for stock price trends
 
-Box plots comparing Apple and Samsung stock price distributions
+* Box plots comparing Apple and Samsung stock price distributions
 
-Scatter plots to analyze relationships between macroeconomic factors and stock performance
+* Scatter plots to analyze relationships between macroeconomic factors and stock performance
 
-Risk & Return Analysis:
 
-Computation of Sharpe Ratio and standard deviation to compare investment risks
+*Risk & Return Analysis:*
 
-Correlation analysis between inflation, exchange rates, and stock prices
+* Computation of Sharpe Ratio and standard deviation to compare investment risks
 
-Statistical Hypothesis Testing:
+* Correlation analysis between inflation, exchange rates, and stock prices
 
-Confidence interval analysis to evaluate stock price differences
+*Statistical Hypothesis Testing:*
 
-Hypothesis testing to assess the impact of macroeconomic factors on stock performance
+* Confidence interval analysis to evaluate stock price differences
 
-Key Findings
+* Hypothesis testing to assess the impact of macroeconomic factors on stock performance
 
-Apple’s stock showed higher returns but greater volatility, making it suitable for risk-tolerant investors.
 
-Samsung’s stock demonstrated more stability with lower risk, appealing to conservative investors.
+*Key Findings*
 
-Inflation had a stronger impact on Apple’s stock compared to Samsung’s.
+* Apple’s stock showed higher returns but greater volatility, making it suitable for risk-tolerant investors.
 
-Exchange rate fluctuations influenced Samsung’s stock valuation when converted to USD.
+* Samsung’s stock demonstrated more stability with lower risk, appealing to conservative investors.
 
-Market sentiment analysis revealed that Apple and Samsung stock returns had negligible correlation, indicating independent movement.
+* Inflation had a stronger impact on Apple’s stock compared to Samsung’s.
 
-Future Enhancements
+* Exchange rate fluctuations influenced Samsung’s stock valuation when converted to USD.
 
-Expand the study to include other major technology companies.
+* Market sentiment analysis revealed that Apple and Samsung stock returns had negligible correlation, indicating independent movement.
 
-Utilize AI and machine learning models for predictive stock performance analysis.
 
-Integrate real-time sentiment analysis using financial news and social media data.
+*Future Enhancements*
 
-Develop interactive visualization tools for better investment decision-making.
+* Expand the study to include other major technology companies.
 
-Contributors
+* Utilize AI and machine learning models for predictive stock performance analysis.
+
+* Integrate real-time sentiment analysis using financial news and social media data.
+
+* Develop interactive visualization tools for better investment decision-making.
+
+
+# _Contributors_
 
 Abhinav Tyagi
-
 Venkat Abhijeet Chinnari
-
 Manjari Gupta
-
 Naveen N.N.M.
-
 Rishiraj Budhaale
-
 Saheel Chavan
 
-License
+# _License_
 
 This project is released under an open-source license. The team grants permission for academic and research use of this report under the Mechanical and Industrial Engineering Department of Northeastern University.
