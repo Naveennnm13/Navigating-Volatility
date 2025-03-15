@@ -68,7 +68,7 @@ Inflation rate datasets from Statista.
 * Market sentiment analysis revealed that Apple and Samsung stock returns had negligible correlation, indicating independent movement.
 
 
-*Future Enhancements*
+*Future Enhancements:*
 
 * Expand the study to include other major technology companies.
 
