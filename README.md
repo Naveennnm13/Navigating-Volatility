@@ -82,10 +82,15 @@ Inflation rate datasets from Statista
 # _Contributors_
 
 Abhinav Tyagi
+
 Venkat Abhijeet Chinnari
+
 Manjari Gupta
+
 Naveen N.N.M.
+
 Rishiraj Budhaale
+
 Saheel Chavan
 
 # _License_
